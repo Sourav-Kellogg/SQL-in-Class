@@ -40,3 +40,6 @@
 -- +-------------------------------+------------------+
 
 
+Select name,Avg(wins) from teams
+where year>2000
+Group by name;

@@ -10,3 +10,5 @@
 -- +------+-------------------+
 
 
+Select year, name, FROM teams;
+

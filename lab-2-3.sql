@@ -6,4 +6,4 @@
 -- | 2017 | Chicago White Sox |
 -- +------+-------------------+
 
-
+Select year, name from teams
